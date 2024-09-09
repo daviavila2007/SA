@@ -18,7 +18,7 @@ const PaymentPage = ({ onBack }) => {
 
       <div className="payment-details">
         <div className="product-summary">
-          <img src="/path/to/springtrap.jpg" alt="Pelúcia Spring Trap" />
+          <img src="./src/Spring.png" alt="Pelúcia Spring Trap" />
           <div className="product-info">
             <h3>Boneco de Pelúcia "FNAF" Spring Trap</h3>
             <p>R$ 52,90</p>
